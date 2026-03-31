@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devito552&color=00d4ff&style=flat-square&label=Visualizações" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Devito552?color=00d4ff&style=flat-square&label=Seguidores" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Devito552?color=00d4ff&style=flat-square&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=devito-js&color=00d4ff&style=flat-square&label=Visualizações" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devito-js?color=00d4ff&style=flat-square&label=Seguidores" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/devito-js?color=00d4ff&style=flat-square&label=Stars" alt="Stars" />
 </div>
 
 ---
@@ -67,19 +67,19 @@
 
 <div align="center">
   <!-- Estatísticas gerais -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=react&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devito-js&show_icons=true&count_private=true&hide_border=true&theme=react&include_all_commits=true" alt="GitHub Stats" />
   
   <!-- Streak (dias consecutivos) -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=Devito552&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=devito-js&theme=react&hide_border=true" alt="GitHub Streak" />
   
   <!-- Linguagens mais usadas -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=react&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devito-js&layout=compact&hide_border=true&theme=react&langs_count=8" alt="Top Languages" />
   
   <!-- Contribuições do ano -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=react&custom_title=Contribuições%202024" alt="Contributions" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devito-js&show_icons=true&count_private=true&hide_border=true&theme=react&custom_title=Contribuições%202024" alt="Contributions" />
   
   <!-- Gráfico de atividade -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devito552&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devito-js&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições" alt="Activity Graph" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devito552&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devito-js&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -95,12 +95,12 @@
 ## 📈 Estatísticas Detalhadas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devito552&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devito-js&theme=react" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devito552&theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devito552&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devito-js&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devito-js&theme=react" alt="Most Commit Language" />
 </div>
 
 ---
@@ -111,7 +111,7 @@
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme_devito@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-devito/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devito552)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devito-js)
 
 </div>
 
