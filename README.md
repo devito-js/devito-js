@@ -56,23 +56,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devito-js&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devito-js&layout=compact&theme=react&hide_border=true"/>
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devito-js&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</div>
-
----
-
 ## 🌎 Onde me encontrar
 
 <div align="center">
